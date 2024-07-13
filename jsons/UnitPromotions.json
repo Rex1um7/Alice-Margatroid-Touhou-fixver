@@ -26,7 +26,7 @@
 		"name": "Round Table Doll",
 		"uniques": [
 			"[10] HP when healing",
-			"-10% combat strength <when adjacent to a [enemy] unit>",
+			"-10% combat strength <for [enemy] units> <when adjacent to a [enemy] unit>",
 			"Can instantly construct a [Fort] improvement",
 			"[+10]% Strength <in [Doll lumber house] tiles>"
 		],
