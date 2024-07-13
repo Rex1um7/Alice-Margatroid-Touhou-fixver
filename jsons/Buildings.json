@@ -19,7 +19,7 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"All newly-trained [Military] units in this city receive the [Doll Gunpowder] promotion"
+			"All newly-trained [Military] units [in this city] receive the [Doll Gunpowder] promotion"
 		],
 		"requiredTech": "Gunpowder"
 	},
@@ -33,7 +33,7 @@
 		"culture": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"All newly-trained [Land] units in this city receive the [Round Table Doll] promotion",
+			"All newly-trained [Land] units [in this city] receive the [Round Table Doll] promotion",
 			"[2] free [Longswordsman] units appear", 
 			"[2] free [Pikeman] units appear", 
 			"[2] free [Crossbowman] units appear",
