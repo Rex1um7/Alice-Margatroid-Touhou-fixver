@@ -7,7 +7,7 @@
 		"production": 3,
 		"percentStatBonus": {"production": 15},
 		"hurryCostModifier": 25,
-		"uniques": ["+[5]% Production when constructing [Buildings] [in this city]"],
+		"uniques": ["[+5]% Production when constructing [All] buildings [in this city]"],
 		"requiredTech": "Metal Casting"
 	},
 	{
@@ -18,7 +18,9 @@
 		"cityStrength": 10,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
-		"uniques": ["All newly-trained [Military] units in this city receive the [Doll Gunpowder] promotion"],
+		"uniques": [
+			"All newly-trained [Military] units in this city receive the [Doll Gunpowder] promotion"
+		],
 		"requiredTech": "Gunpowder"
 	},
 	{
@@ -30,9 +32,13 @@
 		"cityHealth": 25,
 		"culture": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["All newly-trained [Land] units in this city receive the [Round Table Doll] promotion",
-					"[2] free [Longswordsman] units appear", "[2] free [Pikeman] units appear", "[2] free [Crossbowman] units appear",
-					"Free [Great General] appears"],
+		"uniques": [
+			"All newly-trained [Land] units in this city receive the [Round Table Doll] promotion",
+			"[2] free [Longswordsman] units appear", 
+			"[2] free [Pikeman] units appear", 
+			"[2] free [Crossbowman] units appear",
+			"Free [Great General] appears"
+		],
 		"requiredTech": "Chivalry"
 	},
 ]
