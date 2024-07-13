@@ -6,7 +6,7 @@
 		        "[-30]% Strength <when defending>",
 			"[-10]% Strength <vs cities>",
 			"[10]% Strength <in [Forest] tiles>", 
-			"+[10]% Strength <in [Jungle] tiles>",
+			"[+10]% Strength <in [Jungle] tiles>",
 			"[+40]% Strength <in [Doll lumber house] tiles>",
 			"[7] HP when healing <in [Doll lumber house] tiles>"
 		],
