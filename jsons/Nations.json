@@ -22,7 +22,7 @@
 		"uniqueName": "War Command - Doll's War - Doll Judgement",
 		"uniqueText": "A 75% Production bonus to all land units.  Land units suffer various Strength penalties, but gain a bonus in Forest and Jungle terrain (except Armor units). +1 Gold from every Lumber mill. -1 Gold from every Doll lumber house but gain +1 Food bonus. And finally, home of Alice have 1 more production.",
 		"uniques" : [
-			"[+75]% [Production] when constructing [Land] units [in all cities]",
+			"[+75]% Production when constructing [Land] units [in all cities]",
 			"[Scout] units gain the [Doll Construct] promotion",
 			"[{Land} {Melee}] units gain the [Doll Construct] promotion",
 			"[{Land} {Ranged}] units gain the [Doll Construct] promotion",
